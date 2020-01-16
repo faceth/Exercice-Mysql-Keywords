@@ -36,7 +36,7 @@ pour utiliser les bons mots clefs.
 
  Les utilisateurs sont retournés par ordre alphabetique ( de a à z ) en utilisant la colonne "nom".
 
- SELECT * from `users` where 1 ORDER BY nom ASC
+ SELECT * from `users` where 1 ORDER BY nom DESC
 
  Les utilisateurs sont retourné par ordre alphabetique ( de z à a ) en utilisant la colonne "nom".
 
